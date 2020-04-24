@@ -4,3 +4,5 @@ Fortnite Lobby Bot installer by DarkShark96_ | All credits for the lobby bot fil
 If you need help to install the bot watch my video: https://youtu.be/qHU8DeuxDMQ
 
 P.S. In the video i use 1.4 version of my setup but it still work
+
+When a new season comes out, wait 1/2 days to download the updated version of the bot
